@@ -1,0 +1,5 @@
+
+#hadoop_name: hadoop234
+
+#hadoop_name: myhadooptest
+#pod: {{ hadoop_name }}-hadoop-yarn-nm-0

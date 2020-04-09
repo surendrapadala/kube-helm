@@ -1,0 +1,6 @@
+---
+# vars file for hadoop
+
+#hadoop_name: myhadooptest
+#pod: {{ hadoop_name }}-hadoop-yarn-nm-0
+namespace: default

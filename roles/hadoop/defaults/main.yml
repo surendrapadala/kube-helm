@@ -1,0 +1,4 @@
+---
+# defaults file for hadoop
+hadoop_name: hadoop183
+pod: "{{ hadoop_name }}-hadoop-yarn-nm-0"

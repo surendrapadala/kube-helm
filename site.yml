@@ -1,0 +1,7 @@
+---
+- name: hadoop with helm
+  hosts: master
+  gather_facts: yes
+  become_user: root
+  roles:
+    - hadoop
